@@ -70,6 +70,9 @@ body {
   max-width: 250px;
   font-size: 18px;
   word-wrap: break-word;
+  /* display: none; */
+
+
 }
 
 .message-left {
